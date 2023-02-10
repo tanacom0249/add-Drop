@@ -1,6 +1,7 @@
 {
   "name": "add-drop",
   "version": "0.0.0",
+  "allowJs": true,
   "private": true,
   "scripts": {
     "dev": "vite",
